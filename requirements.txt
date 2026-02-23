@@ -1,0 +1,8 @@
+streamlit
+playwright
+openai
+anthropic
+google-generativeai
+groq
+sqlalchemy
+apscheduler
